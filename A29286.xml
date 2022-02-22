@@ -1,0 +1,178 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bread for the poor, or, Observations upon certain proposals lately offered to the Kings Majesty and both Houses of Parliament with some additional considerations tending to inriching of the nation ... : whereby all poor people, women and children from five years old may be comfortably employ'd to get their own livings, beggars and vagrants restrain'd, the parish charges for the poor lightned, and consequently your lands improved, rents raised ... and tradesmen encouraged, and many hundred thousand pounds a year kept at home which now goes out of the kingdom to French and other forraign commodities / by Philo-Anglicus.</title>
+            <author>Philo-Anglicus.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1678</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A29286</idno>
+            <idno type="STC">Wing B4337</idno>
+            <idno type="STC">ESTC R26450</idno>
+            <idno type="EEBO-CITATION">09470992</idno>
+            <idno type="OCLC">ocm 09470992</idno>
+            <idno type="VID">43205</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A29286)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 43205)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1303:15)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Bread for the poor, or, Observations upon certain proposals lately offered to the Kings Majesty and both Houses of Parliament with some additional considerations tending to inriching of the nation ... : whereby all poor people, women and children from five years old may be comfortably employ'd to get their own livings, beggars and vagrants restrain'd, the parish charges for the poor lightned, and consequently your lands improved, rents raised ... and tradesmen encouraged, and many hundred thousand pounds a year kept at home which now goes out of the kingdom to French and other forraign commodities / by Philo-Anglicus.</title>
+                  <author>Philo-Anglicus.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for D.M.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1678.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"With allowance."</note>
+                  <note>Imperfect: Print show-through with some loss of print.</note>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Almshouses --  Great Britain.</term>
+               <term>Poor --  Great Britain --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-12</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-12</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:43205:1"/>
+            <pb facs="tcp:43205:1" rendition="simple:additions"/>
+            <p>BREAD for the POOR: OR, OBSRVATIONS Upon certain PROPOSALS Lately offered To the Kings Majeſty and both Houſes of PARLIAMENT.</p>
+            <p>With ſome additional Conſiderations ten<g ref="char:EOLhyphen"/>ding to Inriching of the Nation, and E<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>reaſe of moſt neceſſary Manufactories amon<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> us.</p>
+            <p>WHEREBY All Poor people (Women and Children from five years old) may be comfortably Employ'd to get their own Livings, Beggars and Vagrants Reſtrain'd; the Pariſh-Charges for the Poor Lightned: And conſequently our Lands improved, Rents raiſed, and yet both Farmers and Tradeſmen Encouraged; And many Hundred thouſand pounds a year kept at home, which now goes out of the Kingdom to <hi>French</hi> and ther Forraign Commodities.</p>
+            <p>By <hi>Philo-Anglicus,</hi> Gent.</p>
+            <p>With Allowance.</p>
+            <p>
+               <hi>London:</hi> Printed for <hi>D. M.</hi> 1678.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="3" facs="tcp:43205:2"/>
+            <head>Bread for the Poor: Or, Obſer<g ref="char:EOLhyphen"/>vations upon certain <hi>PROPOSALS</hi> lately offered to the King and both Houſes of Parliament.</head>
+            <p>THe Labours of the Poor, are the Mines of the Rich; Manufactories and Com<g ref="char:EOLhyphen"/>merce, the Springs of Wealth to eve<g ref="char:EOLhyphen"/>ry Nation, whence flow Power at home, and (the effect of that) Reputa<g ref="char:EOLhyphen"/>tion abroad; ſo that no doubt that Prince or Nati<g ref="char:EOLhyphen"/>on that can gain and keep the <hi>Trade of the World,</hi> will in ſhort time bid fair to be in effect, <hi>Maſter of the World.</hi>
+            </p>
+            <p>This the <hi>FRENCH</hi> have not only underſtood, but vigorouſly endeavour'd; As if they aim'd to be little leſs formidable for their ſubtlety in Traf<g ref="char:EOLhyphen"/>fique, than by the power of their Arms. For how conſiderably have they advanc'd their Trade, and promoted their own Manufactories? Still no leſs induſtriouſly beating down and ſupplanting thoſe of their Neighbours<g ref="char:punc">▪</g> particularly of <hi>England,</hi> as (a<g ref="char:EOLhyphen"/>mongſt others) for Inſtance, our <hi>WOOLLEN-CLOTH,</hi>
+               <pb n="4" facs="tcp:43205:2"/>on which they have laid ſuch <hi>heavy Impoſitions,</hi> as almoſt quite diſcouraged the exporting any thither; Yet in the mean time bringing over vaſt quantities of their prohibited Trifles, with <hi>the ſame boats</hi> at their return jilting away our Wool (<hi>one</hi> Pack of which puts <hi>three</hi> of theirs into Cloth, which other<g ref="char:EOLhyphen"/>wiſe were unſerviceable;) and alſo invite over our workmen, underſel us at Market, and uſe a thou<g ref="char:EOLhyphen"/>ſand Artifices to Ruine that Trade, which once was the Glory of our Nation, and made us renowned through the World.</p>
+            <p>Theſe things are too apparent not to be taken no<g ref="char:EOLhyphen"/>tice of, too dangerous not to be obviated. To which purpoſe what remains, but that we Countermine their policies, and ſtrive to improve to the utmoſt the Manufactories of thoſe materials which our Kingdom does, or might plentifully yield; And as much diſcourage theirs, of which our people have hitherto been too fond?</p>
+            <p>In order to this, we cannot but obſerve and ap<g ref="char:EOLhyphen"/>plaud a very profitable <hi>PROPOSAL</hi> lately made by one Mr. <hi>Richard Hains,</hi> a perſon though to us un<g ref="char:EOLhyphen"/>known further than by his worthy Labours, and that we are informed he is a <hi>Suſſex-Gentleman,</hi> Yet certainly his Zeal for promoting things tending to publick Good, and his Induſtrious Genius in the happy diſcovery of them, no leſs than the pains he takes to divulge them, that being reduced by Au<g ref="char:EOLhyphen"/>thority into Practice, they may accompliſh the good ends deſired, deſerves both publick notice and thanks. Wherefore, though he has lately printed the ſame, yet the Book not being ſo generally diſpers'd
+<pb n="4" facs="tcp:43205:3"/>as might be wiſht, we ſhall preſume to recite ſome parts of it here: For, <hi>Omne Bonum quo Communius eo' Melius.</hi>
+            </p>
+            <p>This Author conſidering the heavie Preſſures moſt Pariſhes lie under to maintain their Poor, who daily increaſe; the decay of our Woollen Cloathing Trade, and the vaſt Charge we are yearly at for Lin<g ref="char:EOLhyphen"/>nen, Cordage, <hi>&amp;c.</hi> from other Nations, whereby our Treaſure is exhauſted, and our Lands fall for want of being improved ſome other way, beſides the common ones, of ſowing of Corn, breeding for Wool, <hi>&amp;c.</hi>
+            </p>
+            <p>For Remedy, does propoſe,<lb/>
+               <hi>That there may be erected in every County of</hi> En<g ref="char:EOLhyphen"/>gland, <hi>according to its Extent or Populouſneſs, a greater or leſſer VVork houſe</hi> or <hi>VVorking Alms-houſe,</hi> as he properly enough calls it; for ſo in the end and deſigne of the Erection it is; (Work for Money being a better piece of Alms to thoſe that are able to do it, than Money or Victuals without Work to lazie Vagrants.) <hi>In which houſes the Poor may be continually employed under Sober and Religious Go<g ref="char:EOLhyphen"/>vernment in the Manufactory of Linnen Cloath.</hi> Whereby he demonſtrates by a modeſt Calculation, that above thirteen hundred thouſand pounds worth of Linnen Cloath may yearly be ſpun in thoſe houſes, beſides what is done in private Families: Whence a triple benefit would ariſe.</p>
+            <p n="1">1. Thoſe vaſt Sums now yearly ſent out of the Nation for Linnen Cloath, <hi>&amp;c.</hi> (which computed by very Intelligent perſons, has of late coſt us more than a Million <hi>per Annum</hi>) may be ſaved.</p>
+            <p n="2">
+               <pb n="5" facs="tcp:43205:3"/>
+2. It will be an Employment for the weakeſt people, not capable of ſtronger labour, <hi>viz.</hi> Women, Children, and Aged, now the moſt chargeable; and ſet to work thoſe hands which for the moſt part now are idle; it being ſuppoſed there are at leaſt 100000 Beggars or others that want a lawful Employment, who hereby will not onely be removed from being chargeable, but on the contrarie, kept in good order, may become ſerviceable to the Publick.</p>
+            <p n="3">3. Much Land throughout <hi>England</hi> will be great<g ref="char:EOLhyphen"/>ly improved by ſowing Hemp and Flax; one of which may be plentifully produced in every Countie of this Kingdom, to the great advantage of Farmers, and conſequently of Landlords.</p>
+            <p>To facilitare this Work, he has invented an Eng<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ne whereby one man may turn fifty Spinning-wheels, which ſhall ſerve a hundred perſons to ſpin with at once: ſo that they ſhall have nothing to do but em<g ref="char:EOLhyphen"/>ploy both hands to draw Tire from the Diſtaff, and ſo earn nine pence a day as eaſily as now they can ſix pence; as is there evidently demonſtrated.</p>
+            <p>The Objections that may be made either to the Advantages propoſed, or the Method, he has largely and plainly ſolved; ſo that I do not perceive any thing that with any colour of reaſon can be ſtarted againſt it, but he has ſoundly and ſubſtantially an<g ref="char:EOLhyphen"/>ſwered.</p>
+            <p>The Title of his Book is, <hi>Propoſals for building VVorking-Alms houſes, as the best Expedient to per<g ref="char:EOLhyphen"/>fect the Trade and Manufactory of Linnen Cloath in</hi> England. <hi>To be ſold by</hi> R. Harford, <hi>at the Angel in</hi> Cornhill. A Piece which I cannot but ſeriouſly
+<pb n="6" facs="tcp:43205:4"/>recommend to the reading and conſideration of every good Patriot and true Engliſh-man.</p>
+            <p>'Tis certain, when in any Nation Commodities are Imported to a greater value than what are Ex<g ref="char:EOLhyphen"/>ported, Impoveriſhment ſeems unavoidable: For then our ready Money muſt go out to even the Bal<g ref="char:EOLhyphen"/>lance; whence it appears, A Kingdom may be in as much danger by <hi>a great Trade ill managed,</hi> as by too little. It ſeems therefore Propoſable, That ſpecial Care be taken to improve Commodities of our own growth and manufacture, and reſtrain the bringing in of Superfluities and Unneceſſaries. Hence 'tis conſiderable, whether the prohibiting of that mightie Glut of <hi>French VVine</hi> may not be ad<g ref="char:EOLhyphen"/>viſable, and the promoting of Cider or other En<g ref="char:EOLhyphen"/>gliſh Liquors (altogether as pleaſant, and probably much more wholſome, becauſe more agreeable to Engliſh bodies) in its ſtead. The Decreaſe of his Majeſties Cuſtoms may eaſily be ſupplied by the <hi>great wiſdom</hi> of the Nation another way.</p>
+            <p>Furthermore, ſince the firſt Riches of any Nation is the multitude of its Inhabitants, and that we are like to have great occaſion for People, as well to be employ'd in profitable Manufactories at home, as <hi>neceſſary Defence</hi> abroad; 'tis ſad to conſider how many <hi>Thouſands</hi> of his Majeſties Subjects are yearly ruined by unjuſt Vexations and trivial Suits; their bodies <hi>buried alive</hi> in Priſons, and their Families reduced to a <hi>Pariſh-charge.</hi> This within the Liber<g ref="char:EOLhyphen"/>ties of <hi>London</hi> is in a good meaſure avoided, by that excellent Court eſtabliſht by King <hi>James P. M.</hi> de<g ref="char:EOLhyphen"/>ſervedly call'd <hi>The Court of Conſcience.</hi> Judicaturs
+<pb n="7" facs="tcp:43205:4"/>of like nature ('tis conceived) might be as commo<g ref="char:EOLhyphen"/>diouſly erected in the Suburbs of that Citie, and other grand Corporations, where they are more neceſſary, by reaſon of a greater confluence there of People <hi>mean</hi> and <hi>Indigent;</hi> the common <hi>Prey</hi> of Brokers, Tallymen, Bum-bayliffs, <hi>&amp;c.</hi>
+            </p>
+            <p>Indeed the whole buſineſs of Arreſts and Impri<g ref="char:EOLhyphen"/>ſonment (at leaſt by <hi>Capias</hi> before Judgment) de<g ref="char:EOLhyphen"/>ſerves Conſideration, if not Regulation. 'Tis cer<g ref="char:EOLhyphen"/>tain, <hi>From the beginning it was not ſo:</hi> Nor ſhall I diſpute what our Anceſtors did to make <hi>Truſting fools</hi> wiſe, or <hi>Ticking knaves</hi> honeſt. However, the preſent Courſe ſeems a little incongruous,</p>
+            <p n="1">1. In <hi>Nature,</hi> conſequently in Law; nothing be<g ref="char:EOLhyphen"/>ing deſtrainable but what can ſatisfie, which muſt be an Eſtate either in <hi>Land</hi> or <hi>Goods:</hi> For a mans body is neither Saleable (with us) nor Eatable.</p>
+            <p n="2">2. In <hi>Diſcretion;</hi> the Creditor hereby diſabling the Debtor, renders his Debt more deſperate.</p>
+            <p n="3">3. In <hi>reaſon of State;</hi> depriving the Soveraign of his Subjects, whoſe bodies thus immur'd might otherwiſe be ſerviceable in Peace or War.</p>
+            <p n="4">4. In <hi>Juſtice</hi> and Conſcience; that a man ſhould be debarr'd of his Liberty (the greateſt Enjoyment Temporal) meerly on a Suggeſtion, before it be ju<g ref="char:EOLhyphen"/>dicially proved that he is either a Debtor or Treſ<g ref="char:EOLhyphen"/>paſſer: Experience witneſſing, That ſcarce one Ar<g ref="char:EOLhyphen"/>reſt in ten, but is either wholly cauſleſs, or for ſpleen, revenge, or ſome inconſiderable trifle.</p>
+            <p>Laſtly, In <hi>Commerce;</hi> Spendthrifts are allur'd to Rookings, and the truſting Dealer is but <hi>ſmother'd in his own Feathers:</hi> For, to pack off his Wares at
+<pb n="8" facs="tcp:43205:5"/>
+               <hi>any Rate,</hi> he readily <hi>books</hi> the looſe) the reach of his Purſe: And if his fortune fall ſhort<g ref="char:punc">▪</g>, curſes his Confidence; and to <hi>eke</hi> out his <hi>revenge,</hi> takes forth a <hi>Capias</hi> for his <hi>Carcaſs;</hi> which proves but throwing good money after <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> one <hi>Crawls</hi> out, Twenty are <hi>ſwallowed</hi> 
+               <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> or de<g ref="char:EOLhyphen"/>voured by exceſſive <hi>Fees,</hi> and Debaucheries com<g ref="char:EOLhyphen"/>monly incident to <hi>Goals.</hi> In a word, 'Tis both a pity and a ſhame, <hi>honeſt</hi> men, meerly becauſe <hi>poor,</hi> ſhould be kept a <hi>ſtarving</hi> in Priſons; and as for <hi>rich Knaves,</hi> they do not regard them.</p>
+            <p>'Tis a good Maxime, <hi>No man ought to be wiſer than the Law;</hi> yet 'tis hop'd, what tends to Publick Ad<g ref="char:EOLhyphen"/>vantage, may with modeſty and due ſubmiſſion be offered to Conſideration: And 'tis with that be<g ref="char:EOLhyphen"/>coming deference theſe few Hints are tendred to that Great Authority, which has) Power (if thought meet) to make ſuch variations as ſhall be neceſſary; whoſe Conſultations may the <hi>Everlaſting Counſellor</hi> bleſs with Unanimity and Succeſs, for the Good of his Church, and Proſperity of this Nation.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
